@@ -1,0 +1,18 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/reports/
+/playwright-report/
+
+#env files (confidentials):
+
+#build
+dist/
+
+
+#OS files
+.DS_Store
